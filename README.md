@@ -51,5 +51,12 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 * ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
+## Autores ✒️
+
+* **Facundo Francou** - *[facufrancou](https://github.com/facufrancou)*
+* **Gonzalo Flores** - *[gonza68](https://github.com/gonza68)*
+* **Manuel Castillo** - *[manu-castillo](https://github.com/manu-castillo)*
+* **Miguel García** - *[MiguelGarcia23](https://github.com/MiguelGarcia23)*
+
 ---
 ⌨️ con ❤️ por 🐺[Miguel García](https://github.com/MiguelGarcia23)
